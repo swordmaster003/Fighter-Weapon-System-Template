@@ -34,7 +34,6 @@ One mode is called Single-Target mode,which means only one attack target can be 
 Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missilesthese missiles are the long range missiles).
 </BR>
 
-
 <BR>
 <STRONG> * </STRONG>
 The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state . After the cooling is completed, the machine gun can be fired again.
@@ -46,7 +45,6 @@ The custom editor of each script has been carefully designed.
 </BR>
 Their appearance is neat and friendly.
 </BR>
-
 
 <BR>
 <STRONG> * </STRONG>
