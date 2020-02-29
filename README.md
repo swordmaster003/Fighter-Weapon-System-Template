@@ -13,3 +13,6 @@ This Template is a weapon system template designed for the fighter. It can help 
 You can download this asset from Unity Asset Store:
 [Fighter Weapon System Template](https://assetstore.unity.com/packages/templates/systems/fighter-weapon-system-template-153238?aid=1101l3qJu)
 
+## Control
+
+![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/Control.png)
