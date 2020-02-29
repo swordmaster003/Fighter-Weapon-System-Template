@@ -9,4 +9,5 @@ This Template is a weapon system template designed for the fighter. It can help 
 ## Download
 
 You can download this asset from Unity Asset Store:
-https://assetstore.unity.com/packages/templates/systems/fighter-weapon-system-template-153238?aid=1101l3qJu
+[yahoo]: https://assetstore.unity.com/packages/templates/systems/fighter-weapon-system-template-153238?aid=1101l3qJu
+
