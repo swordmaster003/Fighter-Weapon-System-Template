@@ -27,19 +27,19 @@ You can download this asset from Unity Asset Store:
 
   ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/MachineGun2.png)
 
- After the cooling is completed, the machine gun can be fired again.
+  After the cooling is completed, the machine gun can be fired again.
  
   ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/MachineGun1.png)
 
 - The Fighter Missile System have two working modes:
 
-(1) One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
+  (1) One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
 
-    ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimSingle.png)
+  ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimSingle.png)
 
-(2) Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missilesthese missiles are the long range missiles).
+ (2) Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missilesthese missiles are the long range missiles).
 
-   ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimMulti.png)
+  ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimMulti.png)
  
 - Include one big and beautiful environment named the Atacama Desert.
 
