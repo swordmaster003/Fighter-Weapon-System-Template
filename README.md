@@ -37,7 +37,7 @@ You can download this asset from Unity Asset Store:
 
   ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimSingle.png)
 
- (2) Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missilesthese missiles are the long range missiles).
+  (2) Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missilesthese missiles are the long range missiles).
 
   ![image](https://github.com/swordmaster003/Fighter-Weapon-System-Template/blob/master/Screenshots/AimMulti.png)
  
